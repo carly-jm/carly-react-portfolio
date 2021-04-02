@@ -1,0 +1,28 @@
+{
+  "project": [
+    {
+      "_id ": 1,
+      "title": "Confessions App",
+      "about": "An anonymous social media app, made with React",
+      "thumbnail": "./images/projects/confessions.png",
+      "deployment": "https://app-confessions.herokuapp.com/",
+      "repo": "https://github.com/carly-jm/confessions-1"
+    },
+    {
+      "_id ": 2,
+      "title": "Password Generator",
+      "about": "A web app used to create a unique password",
+      "thumbnail": "./images/projects/passwordgenerator.png",
+      "deployment": "https://carly-jm.github.io/PasswordGenerator/",
+      "repo": "https://github.com/carly-jm/PasswordGenerator"
+    },
+    {
+      "_id ": 3,
+      "title": "Get Meals Now",
+      "about": "An app used to search for ingredients and find recipes to suit your dietary needs.",
+      "thumbnail": "./images/projects/getmealsnow.png",
+      "deployment": "https://robertkoepp.github.io/GetMealsNow/index.html",
+      "repo": "https://github.com/carly-jm/GetMealsNow"
+    }
+  ]
+}
